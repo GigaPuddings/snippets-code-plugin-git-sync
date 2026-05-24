@@ -7985,10 +7985,10 @@ const yd = vd("github", !0, function(e) {
     id: "gitSync",
     labelKey: "settings.gitSync.menu",
     icon: yd,
-    component: /* @__PURE__ */ Vr(() => import("./index-BfNQzPsB.js"))
+    component: /* @__PURE__ */ Vr(() => import("./index-BMJh8y5J.js"))
   }), e.registerTitlebarAction({
     id: "git-sync-status",
-    component: /* @__PURE__ */ Vr(() => import("./TitlebarGitStatus-DJuO8qOy.js"))
+    component: /* @__PURE__ */ Vr(() => import("./TitlebarGitStatus-BQFMiNcj.js"))
   });
 };
 export {
