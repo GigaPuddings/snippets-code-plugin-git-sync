@@ -3,7 +3,7 @@
 Official installable plugin package for Snippets Code.
 
 - Plugin ID: `git-sync`
-- Version: `2.1.6`
+- Version: `2.1.7`
 - Source: `docs/plugin-packages/git-sync`
 - App compatibility: `>=2.1.28`
 
@@ -16,7 +16,7 @@ https://github.com/GigaPuddings/snippets-code-plugin-git-sync/archive/refs/heads
 Versioned release URL:
 
 ```text
-https://github.com/GigaPuddings/snippets-code-plugin-git-sync/archive/refs/tags/2.1.6.zip
+https://github.com/GigaPuddings/snippets-code-plugin-git-sync/archive/refs/tags/2.1.7.zip
 ```
 
 This repository is synchronized from the main application repository by
